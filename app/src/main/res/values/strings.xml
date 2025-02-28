@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">EzemKofi</string>
+    <string name="logo">EzemKofi</string>
+    <string name="login">Login</string>
+    <string name="loginAccount">Login with your account to continue\n</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="loginText">Don\'t have an account?</string>
+    <string name="createAccount">Create an account!</string>
+    <string name="create">Create Account</string>
+    <string name="createText">Register yourself to become our member and\nenjoy the benefits</string>
+    <string name="fullname">Full Name</string>
+    <string name="email">Email</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="loginButton">LOGIN</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="alreadyHave">Already have an account?</string>
+    <string name="loginHere">Login here</string>
+    <string name="mainHeader">Good Morning</string>
+    <string name="you">Achaa</string>
+    <string name="categories">Categories</string>
+    <string name="yourCart">Your Cart</string>
+    <string name="americano">Chocolate Delight</string>
+    <string name="rate">4.1</string>
+    <string name="price">3.45</string>
+    <string name="topPicks">Top Picks</string>
+    <string name="americanoType">Chocolate</string>
+    <string name="searchResult">Search Result</string>
+    <string name="size">L</string>
+    <string name="angka">1</string>
+    <string name="Details">Details</string>
+    <string name="addToCart">ADD TO CART</string>
+    <string name="coffeeDetails">Indulge in the creamy goodness of this latte, a true luxury for your palate</string>
+</resources>
